@@ -4,7 +4,7 @@
 
 ## Motivation
 
-  A principal função do projeto é entender como funciona a execução das instruções da arquitetura, através de uma linguagem de alto nível. Também tem como objetivo, a apresentação e avaliação do mesmo.
+  A principal função do projeto é entender como funciona a execução das instruções da arquitetura, através de uma linguagem de alto nível. Também tem como objetivo, a apresentação e avaliação do mesmo na disciplina de Arquitetura e Organização de Computadores.
 
 ## Tests
 
